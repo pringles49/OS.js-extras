@@ -12,7 +12,7 @@ In `TerminalExtension`, run `npm install`.
 
 ## Configure
 
-In `Terminal/package.json`:
+In `Terminal/metadata.json`:
 
 ```
 {
